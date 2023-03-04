@@ -1,1 +1,1 @@
-# config-server-environment
+Environment repository for Spring Cloud Config Server
